@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "myappflutter-440612",
+  "private_key_id": "9ed7b0039eab67eaae12e2700844121fbcc8ce60",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCOhCt2xPoS2tfp\np2jM9Jwxs6RlzYQMzAydz0LlTe7N+ueGA45dvsfVLYTvkZZIE8PoLVgN/DBS14ZR\nKoTvQbaoCHMh2MMV7lp95LAHf7fwz+uwgPPiMmtWlkMmDXnY5kl8G5M7h7Fglcfr\nYLR3AlWUTA9ND+FXB0Jc+1EbkfCbd/1i1PrmBzQ8JEdbTJc/4UusHsOYmpvHE0/0\nUZx0sJp8uM6M7WoQZtieIYlIVU0ZygQe07FbEyrHEBNkC/Odba5dwkjsWX8Dgw4X\nQEAmRrZ2DF0c1E7f4WRlpSgvIc7o2WuNjlZ2g4IcjhBq44CpkHIViUHHUFw6HJ+5\nPmpe/tmHAgMBAAECggEAIK2+16OQIg2rT6jy93gpbp4eFrfazSJmzDLPyIuns/SR\n7SFYnjdWVBP1dQeBmbJqjA0FsWM/42cHJgplZAVB8GLLn5m4FgnLFy3+jSGkmGPc\ny+KtyZK9GSQobovNgkY/2GTsTEyviBGgP2Ez0EwpOnF8WrPG/HEuLurzrKo4rTUt\nKEo6u1+7XvTnsHdRATZPJOlnIsZEz6Ylkg4Iv2JxoSAnsl+i1ea0nU5UipvzvTd/\ngtZ0HQN15f0kMKFRZYwCqKwKsnsFh/LKCA8dfb8ihpSKZ616C8GyTieKgaubVnhT\n4S/IgdMeERFHxj5if9luYnNFAgrObbGnfRpGkbpxCQKBgQDHTeYOapYKo7RIKcjv\nwKvG/B9SJEEbl18PTFXeADZKWUy4M+BToVltRux74IK02438VqpYdR28aPz64b4k\ndVhhJVBrz87MEY9l19NrvKyQQGHTlPBzjb8GZUsOSSZW6jbuylYdsbDBROLtqXIc\noUpU0HMnfYNeVDTwNJCmJdFgiQKBgQC3DsBZN7WzTFXjNwRBWhm8aBlWE1WdfRr2\nx1F6aIhd9iDwQZIUZ+whvSXxzPh77WW2VGozteIqYUJxU773dMluSqtVwY1DPFtr\nnwiz/xYAMP9Qd4eQPd/+/06QwEFhy9Le3GL+ku7QADcnFzsNVcLAB0d2rLYujR+Z\n8EL1vJ1FjwKBgQC3bgWHTSfMoQBCzlpF9qDiYZb+Ban6l+WAcfQxfyZ4ZRnMCsqy\njbR9c6IhHO+PPua90JG1Gg0FI+d5i5xxd6KgvjP3FeoxPRQqWmoWJS75EJg4oEJx\nR4sBeuaKPl7P7X4jZgu+BpU0O49TxvjkSrnbt4HUXZszjPKwBOEAWZwLaQKBgB3n\naQCqGyKpK7asfCN45o9iqhDno6rQjyEVOng2r2A6HvNgos52k5qHXbV8eHM2OtFo\nRNkhs0qdDM+akK24BFfiFs8xiTQcngqctj1BRITPfEXW4OxtTzRG3LzEy2mAdHg3\npGxV8HFGN7xJDTqGcgQQrFn0qOY945WwLCAcqcx9AoGBAJ6UVYXtfJWQFEKT/L10\n1rDkEWvCkea0pksH058qF0OlmFqH687gGEZt31uOeFomKkKFaIHXPiDfhi5cGOIa\nAGXQWwd67Sqpr/KEhM/IWgbOXNGfwVnnQL3j5uS1PYtWCGZZsgyJNn0B4Dbki13v\nJ9PlORKKYhRyHHdG9Y6IscOz\n-----END PRIVATE KEY-----\n",
+  "client_email": "ilyassapp@myappflutter-440612.iam.gserviceaccount.com",
+  "client_id": "101816636297305965965",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ilyassapp%40myappflutter-440612.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

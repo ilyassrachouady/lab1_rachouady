@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "29155003428",
+    "project_id": "flutterapp-329cb",
+    "storage_bucket": "flutterapp-329cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29155003428:android:de9ca8d34f9b31a1e21cb1",
+        "android_client_info": {
+          "package_name": "com.rachouady.lab1_rachouady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29155003428-6d4r7sc4lob65qv3eadv8uj917tc9oa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpW51ghFDF65D3kEyLOy_NzXt-PRF1I60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29155003428-6d4r7sc4lob65qv3eadv8uj917tc9oa0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29155003428-6grus24pvm4314rkigacp8cdddp3a5tu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rachouady.lab1_Rachouady"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29155003428:android:fd5de259bed3c419e21cb1",
+        "android_client_info": {
+          "package_name": "com.rachouady.lab1_rachouady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29155003428-6d4r7sc4lob65qv3eadv8uj917tc9oa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpW51ghFDF65D3kEyLOy_NzXt-PRF1I60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29155003428-6d4r7sc4lob65qv3eadv8uj917tc9oa0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29155003428-6grus24pvm4314rkigacp8cdddp3a5tu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rachouady.lab1_Rachouady"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
